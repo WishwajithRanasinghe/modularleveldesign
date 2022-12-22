@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b33ccdda65c798a4f81a08237872ac08
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dutch801 SeBd BT
+  fontNames:
+  - Dutch801 SeBd BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 923e563652af69449a8abf402860761f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

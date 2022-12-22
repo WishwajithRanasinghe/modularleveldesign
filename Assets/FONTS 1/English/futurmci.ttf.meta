@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7b304f0ee82a7274788062004b534049
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Futura MdCn BT
+  fontNames:
+  - Futura MdCn BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 53f74a9a84b216f44ba54e1c5d063660, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

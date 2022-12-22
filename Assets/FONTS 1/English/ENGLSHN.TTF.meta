@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 24d52320add012e43ac71e1cd01fbb74
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EnglischeSchT
+  fontNames:
+  - EnglischeSchT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 04bbda1bc8922034c950c59850bc87a1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

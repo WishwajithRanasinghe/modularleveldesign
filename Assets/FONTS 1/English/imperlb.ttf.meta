@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2160e2e746f3b0742a4af68796cc0d56
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Imperial BT
+  fontNames:
+  - Imperial BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 201dca4a205fba64dadc58af8e0c9be1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

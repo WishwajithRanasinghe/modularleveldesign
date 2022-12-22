@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b3fa405ec2091554694d4a2c733868f5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NimbusRomDGR
+  fontNames:
+  - NimbusRomDGR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 510f6caad820b944f84a7e4fbd1375a9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

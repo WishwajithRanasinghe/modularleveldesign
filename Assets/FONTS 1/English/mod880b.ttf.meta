@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f688c75fbee0956499ed01d9715b17f1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Modern880 BT
+  fontNames:
+  - Modern880 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 76e3e70f41e101c48bd4a430d64c5a2e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

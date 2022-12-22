@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 5f4b544c144f9be4da7dd53a2c8d5830
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Czar
+  fontNames:
+  - Czar
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f421ad2592a6cbb4f8b6011cc7ce5832, type: 3}
+  - {fileID: 12800000, guid: a97095c6bee967f49a406f832030be3b, type: 3}
+  - {fileID: 12800000, guid: a306191b3e6db6b4fa7e63d52731f0e7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

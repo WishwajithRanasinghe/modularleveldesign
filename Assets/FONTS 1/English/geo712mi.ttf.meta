@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e3c37434e51930f4c8e833d5ba2d3ed8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GeoSlb712 Md BT
+  fontNames:
+  - GeoSlb712 Md BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f2b39d5f2265fe740a222772a7bcc5a4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

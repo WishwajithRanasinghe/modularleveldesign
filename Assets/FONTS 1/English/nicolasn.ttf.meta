@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fc2027a299664d64586cbbd00a047a20
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NicolasCocTReg
+  fontNames:
+  - NicolasCocTReg
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 69b8dbd1b12378343b97f8a25b126b4c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

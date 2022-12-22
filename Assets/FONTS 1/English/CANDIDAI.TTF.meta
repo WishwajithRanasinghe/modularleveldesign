@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: dff199ba3ae2e974eb60955c5c97fe79
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Candida BT
+  fontNames:
+  - Candida BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b87fbbb51e42fe242bb915fb82f3b1ae, type: 3}
+  - {fileID: 12800000, guid: 62278cbfafe90304aad00e6ab47510b1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

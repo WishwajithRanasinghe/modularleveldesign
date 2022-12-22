@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 7db4e9802c494504884afe4ef5f635f6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Century731 BT
+  fontNames:
+  - Century731 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a3b225c14dc032f46831a7d085149aa0, type: 3}
+  - {fileID: 12800000, guid: b14a484922f9f1b4eb89e785f46f055c, type: 3}
+  - {fileID: 12800000, guid: 00e9463fb16908642ac81a5238844244, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

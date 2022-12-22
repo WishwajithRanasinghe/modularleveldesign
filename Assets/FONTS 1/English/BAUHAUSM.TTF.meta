@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c5245c7413e8cab4a883dc409470e943
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bauhaus Md BT
+  fontNames:
+  - Bauhaus Md BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 32ff838d92ec6a7429fa72381a7655ba, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

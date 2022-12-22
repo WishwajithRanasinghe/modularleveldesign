@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5dc1897ae3e432940b5457e4eb47976d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BellGothic BT
+  fontNames:
+  - BellGothic BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 35e9015f605710b418035bd17bd2d8b3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

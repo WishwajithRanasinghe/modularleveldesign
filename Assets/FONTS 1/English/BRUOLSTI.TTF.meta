@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: bdf004923c8c90948b61cfa9fd12ce92
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BruceOldStyle BT
+  fontNames:
+  - BruceOldStyle BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f88cc1b4efac28e4dbe80620092f281a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

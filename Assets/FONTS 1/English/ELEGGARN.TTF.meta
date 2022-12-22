@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: cf1b56c01ae80bd4b9156adab3ffc916
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ElegaGarmnd BT
+  fontNames:
+  - ElegaGarmnd BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: af01551aa033a0a458f37d5576b5d2aa, type: 3}
+  - {fileID: 12800000, guid: 7e5411fe140c07444a00ddfa8ed5a2c8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

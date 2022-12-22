@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e46cf1e0eb2838445af4e751f7509949
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Life BT
+  fontNames:
+  - Life BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20da42bb29c74624c9409af2b3ba26b3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

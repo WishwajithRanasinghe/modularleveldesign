@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5467b6d425e72de4c893038211fda136
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arrus Blk BT
+  fontNames:
+  - Arrus Blk BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b1aa3dc5e4d095f4b8902ac343e65696, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

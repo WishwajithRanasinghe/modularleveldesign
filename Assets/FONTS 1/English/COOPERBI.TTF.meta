@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 5e71506e26c97e04295aae07384ff709
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cooper Lt BT
+  fontNames:
+  - Cooper Lt BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d35974e5a3b5f1144bf2164c56da4996, type: 3}
+  - {fileID: 12800000, guid: 8bd252f62309f5d4f991d130d0fd1a25, type: 3}
+  - {fileID: 12800000, guid: 313937dc8cb3cde48b787bebdf9723f1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

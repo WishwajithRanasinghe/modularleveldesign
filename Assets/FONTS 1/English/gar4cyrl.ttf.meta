@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 24e7477d2d4a4f1419d0427bae34138a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GaramondNo4CyrTCYLig
+  fontNames:
+  - GaramondNo4CyrTCYLig
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b0b9d3bcf9a15f7479a5781d1695c94c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 1f5d35af04222cb4687cd29c49808a50
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Monospac821 BT
+  fontNames:
+  - Monospac821 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 165fbc1dd42b41440ac1f904bd1556aa, type: 3}
+  - {fileID: 12800000, guid: 0db06f4ea482522419dad15c8006feed, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 48472d86c7671ab409c2ab1b9d4adbbf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cataneo BT
+  fontNames:
+  - Cataneo BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 759451f6ad1a9a74baf55c06304554db, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

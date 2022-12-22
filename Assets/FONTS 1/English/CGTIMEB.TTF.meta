@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 68631b9b78292434abaa72f0f4f0e4b1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CG Times
+  fontNames:
+  - CG Times
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 06a9584ed9cdb254196d8cf1145b87d9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

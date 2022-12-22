@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 472bb269ab6c23e44897f213f1c9bd34
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Century725 BT
+  fontNames:
+  - Century725 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a1fb9f54948e5b94eb22ef1f5034d928, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

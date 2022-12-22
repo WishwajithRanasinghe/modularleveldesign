@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: efb46ee2bb1f64942a5bcbbad0b8d042
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GarmdITC BkCn BT
+  fontNames:
+  - GarmdITC BkCn BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: af14b469f2fd917478350cbc9363b487, type: 3}
+  - {fileID: 12800000, guid: 5fa12b0b46c368c4686389924135dcce, type: 3}
+  - {fileID: 12800000, guid: 473c57bd0ec9bc64cb2c93ecc2d7adcc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

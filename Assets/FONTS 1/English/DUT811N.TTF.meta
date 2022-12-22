@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b31cdf554e83546498a9eacf3f7f3049
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dutch811 BT
+  fontNames:
+  - Dutch811 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a0fbb824ef6f8c744b879deaea82fa6a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

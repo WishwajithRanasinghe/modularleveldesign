@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0d60ddce49bb2104c9d4760f65fcd93e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ChelthmITC Bk BT
+  fontNames:
+  - ChelthmITC Bk BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ec07e187e0b34bb42bf659df2de77939, type: 3}
+  - {fileID: 12800000, guid: a3646d08687a7fd4d8688266817211b7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

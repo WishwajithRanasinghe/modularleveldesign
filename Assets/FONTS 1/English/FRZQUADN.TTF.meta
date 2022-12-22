@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a3a1b125426d7ea4db36a5149ca85cc6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FrizQuadrata BT
+  fontNames:
+  - FrizQuadrata BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 914ddb47f24eb6142958760991ec799f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

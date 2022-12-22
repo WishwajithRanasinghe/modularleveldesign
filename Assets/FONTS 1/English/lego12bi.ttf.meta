@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: def6a6dd60d388b4e9b0b529cdc7e694
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LettrGoth12 BT
+  fontNames:
+  - LettrGoth12 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b87eb00bcada12e439184b81c7a19731, type: 3}
+  - {fileID: 12800000, guid: 152a0bbcc1289134281435eb0acda68b, type: 3}
+  - {fileID: 12800000, guid: a864aeefb8d59c54591f231d1a3bed78, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

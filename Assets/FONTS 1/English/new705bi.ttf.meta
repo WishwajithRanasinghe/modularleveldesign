@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f38fe910fde97644b9b3171fd22fa82a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: News705 BT
+  fontNames:
+  - News705 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b3a4755b62811014bbab6e47921bfd11, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

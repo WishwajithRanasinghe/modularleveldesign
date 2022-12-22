@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: bc579d0b6168ee649b4372ad26652481
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lapidary333 BT
+  fontNames:
+  - Lapidary333 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 37f1095271b2b2342a17645313363568, type: 3}
+  - {fileID: 12800000, guid: 72c4ec136f1fdb8469c0759a6c8e0951, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ffd55ccf224972142b251202866275eb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dutch809 BT
+  fontNames:
+  - Dutch809 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 699d3ff485ac7b140b99f79dcaf8cbb4, type: 3}
+  - {fileID: 12800000, guid: 0f40ae69fe37df843b20997c152b400d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a487046547718fd4a91a4a1d4d673724
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Geometr212 Bk BT
+  fontNames:
+  - Geometr212 Bk BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0018f5049c7bbf14caf1c6151a70dc63, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

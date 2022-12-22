@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0ecd7d57ed6615a488ff09f5d6856d0c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cushing Hv BT
+  fontNames:
+  - Cushing Hv BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c6b54cbd4d3513a4ab1d83a3012fe55c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

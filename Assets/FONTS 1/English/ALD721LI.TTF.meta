@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9b2932a434062b149a113740bc7ac0ef
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Aldine721 Lt BT
+  fontNames:
+  - Aldine721 Lt BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 411dc557d8d5db84399ed57c408e9b7a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 75e222b64037ce04c8d6d366f801c3a6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Compacta Bd BT
+  fontNames:
+  - Compacta Bd BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 73b5cb9bb22130b4aa6a7139ce386b45, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

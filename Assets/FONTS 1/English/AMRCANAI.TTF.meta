@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 465f2be3e707113429012eaea2364282
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Americana BT
+  fontNames:
+  - Americana BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 15da90c96069fe64992cb7cda48f4385, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

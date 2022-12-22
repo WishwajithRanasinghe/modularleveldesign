@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a8c91e7ca53d65a44aa83b52a3ab070e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ClassGarmnd BT
+  fontNames:
+  - ClassGarmnd BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 48f70ab1163a3f5438fbd15ad3be4527, type: 3}
+  - {fileID: 12800000, guid: 425d2bb62d6864547945d5076df4c801, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

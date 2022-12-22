@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 3bc86005474b28b4bb9f7b461538869f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AmeriGarmnd BT
+  fontNames:
+  - AmeriGarmnd BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d3ba7601d379bef4ca3a2d7c03ed03f7, type: 3}
+  - {fileID: 12800000, guid: 2b065cf2e292a6540a06f66b82daa14f, type: 3}
+  - {fileID: 12800000, guid: 31b6d3e40022ce94da8655945ddf6b75, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

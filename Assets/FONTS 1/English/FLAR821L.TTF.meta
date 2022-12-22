@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fb1d378c1762c6e4fa11e9455697534c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Flareserif821 Lt BT
+  fontNames:
+  - Flareserif821 Lt BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a218683b198a11343a9bac0cc070ebe8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

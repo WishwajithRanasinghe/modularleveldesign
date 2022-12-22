@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 296f3777977e5394c8624d89aeefd265
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: IowanOldSt Blk BT
+  fontNames:
+  - IowanOldSt Blk BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 204125055b2743549936b2400568e3e9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

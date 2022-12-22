@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 1e47f9aee3fb6d044968c5ee153d6427
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cheltenhm BT
+  fontNames:
+  - Cheltenhm BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 03f922c543298ee4a902e07f876550c5, type: 3}
+  - {fileID: 12800000, guid: 3888c288185ecaa4eb690d4013d93c42, type: 3}
+  - {fileID: 12800000, guid: d321b9ac0e55b3940bbab97a4fcb225d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4a3424489f688b647a84bbd6a805486e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CenturyExpd BT
+  fontNames:
+  - CenturyExpd BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0687b634fc1fd5142b625eb7098238a9, type: 3}
+  - {fileID: 12800000, guid: f0f3f57b63baa1a4ea32b9066175e3aa, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

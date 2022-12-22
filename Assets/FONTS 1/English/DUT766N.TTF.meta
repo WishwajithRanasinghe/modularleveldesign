@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 639c20a9cea16eb48be00d5f488f70f6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dutch766 BT
+  fontNames:
+  - Dutch766 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 63411e095ec193e46bcbfb12d7374c04, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7f1c99f81ee462945912e1f0ff48cedb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: News702 BT
+  fontNames:
+  - News702 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c6d8ab33dc2de9443844c80d922bc379, type: 3}
+  - {fileID: 12800000, guid: 308ac7aed103f3c41aa91d34b2a9207b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

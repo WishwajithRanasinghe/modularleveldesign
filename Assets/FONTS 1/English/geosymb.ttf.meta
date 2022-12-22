@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6dd91ede3a467e846869883ffd9982ef
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GeographicSymbols
+  fontNames:
+  - GeographicSymbols
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 30751fc9e4f8d344b8acba42b41b1db7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
